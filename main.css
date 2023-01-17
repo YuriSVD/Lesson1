@@ -1,0 +1,21 @@
+p {
+    text-align: justify;
+    font-size: 18px;
+    color: brown;
+    background: wheat;
+}
+h1 {
+    background: cornflowerblue;
+    color: #fcc256;
+}
+div > a {
+    text-decoration: none;
+}
+div > a > h2 {
+    background: silver;
+    color: blue;
+}
+div > ul > li {
+    background: silver;
+    color: midnightblue;
+}
